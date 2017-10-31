@@ -1,4 +1,4 @@
-package com.imagined.wurmunlimited.server;
+package galinhavoadora.wurmunlimited.server;
 
 import java.util.Properties;
 import java.util.logging.Level;
